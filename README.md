@@ -1,4 +1,5 @@
-# knu-machine-learning
+# knu-machine-learning - 서울시 공공자전거(따릉이) 고장율 예측
+
 
 ![Kayak][logo]
 
